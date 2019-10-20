@@ -6,14 +6,14 @@ posts = [
         'author': 'Jane Doe',
         'title': 'pitch 1',
         'content': 'first pitch',
-        'date_posted': 'October 18, 2018'
+        'date_posted': 'October 18, 2019'
     },
 
 ]
 
 @app.route('/')
 def home():
-    return render_template('home.html')
+    return render_template('home.html', posts=posts)
 
 @app.route('/about')
 def about():
