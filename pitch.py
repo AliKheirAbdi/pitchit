@@ -1,6 +1,15 @@
 from flask import Flask, render_template
 app = Flask(__name__)
 
+posts = [
+    {
+        'author': 'Jane Doe',
+        'title': 'pitch 1',
+        'content': 'first pitch',
+        'date_posted': 'October 18, 2018'
+    },
+
+]
 
 @app.route('/')
 def home():
@@ -8,7 +17,7 @@ def home():
 
 @app.route('/about')
 def about():
-    return '<h1>About</h>'
+    return render_template('about.html')
 
 if __name__ == "__main__":
     app.run(debug=True)
