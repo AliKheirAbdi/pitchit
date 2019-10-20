@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4db64362-e8ee-47ed-ad98-297ca0ade167" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pitch.py" beforeDir="false" afterPath="$PROJECT_DIR$/pitch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571577760851</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test to display multi pitch in home.html">
+      <created>1571579304706</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571579304706</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -92,6 +102,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created the home.html and about.html pages" />
     <MESSAGE value="Test display of pitch templating in home.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test display of pitch templating in home.html" />
+    <MESSAGE value="Test to display multi pitch in home.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test to display multi pitch in home.html" />
   </component>
 </project>

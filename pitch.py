@@ -12,7 +12,7 @@ posts = [
         'author': 'Ali Kheir',
         'title': 'pitch 2',
         'content': 'second pitch',
-        'date_posted': 'October 18, 2019'
+        'date_posted': 'October 20, 2019'
     }
 
 ]
@@ -23,7 +23,7 @@ def home():
 
 @app.route('/about')
 def about():
-    return render_template('about.html')
+    return render_template('about.html', title='About')
 
 if __name__ == "__main__":
     app.run(debug=True)
