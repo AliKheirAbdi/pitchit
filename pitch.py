@@ -37,7 +37,10 @@ def register():
     return render_template('register.html', title='Register', form=form)
 
 
-
+@app.route('/login')
+def login():
+    form = RegistrationForm()
+    return render_template('login.html', title='Login', form=form)
 
 
 if __name__ == '__main__':
