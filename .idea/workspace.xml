@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4db64362-e8ee-47ed-ad98-297ca0ade167" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pitch.py" beforeDir="false" afterPath="$PROJECT_DIR$/pitch.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1571592983350</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="add a registration form.py with username and email fields">
+      <created>1571594209928</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1571594209928</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add pwd field,confirm pwd and submit field to reg form.py">
+      <created>1571594392929</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1571594392929</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -139,6 +154,8 @@
     <MESSAGE value="add a navbar to layout.html" />
     <MESSAGE value="add a content sidebar to layout.html" />
     <MESSAGE value="add static folder with main.css code" />
-    <option name="LAST_COMMIT_MESSAGE" value="add static folder with main.css code" />
+    <MESSAGE value="add a registration form.py with username and email fields" />
+    <MESSAGE value="add pwd field,confirm pwd and submit field to reg form.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pwd field,confirm pwd and submit field to reg form.py" />
   </component>
 </project>
