@@ -122,3 +122,5 @@ def delete_post(post_id):
             abort(403)
         db.session.delete(post)
         db.session.commit()
+        flash('Your post has been deleted!', 'success')
+        return
