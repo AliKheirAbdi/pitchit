@@ -2,7 +2,7 @@ from flask import render_template, url_for, flash, redirect
 from pitch import app, db, bcrypt
 from pitch.forms import RegistrationForm, LoginForm
 from pitch.models import User, Post
-from flask_login import login_user
+from flask_login import login_user, current_user, logout_user
 
 posts = [
     {
@@ -33,6 +33,8 @@ def about():
 
 @app.route("/register", methods=['GET', 'POST'])
 def register():
+    if current_user.is_authenticated:
+        return redirect(url_for('home'))
     form = RegistrationForm()
     if form.validate_on_submit():
      # utf-8 makes pw into string instead of bytes
@@ -47,6 +49,8 @@ def register():
 
 @app.route("/login", methods=['GET', 'POST'])
 def login():
+    if current_user.is_authenticated:
+        return redirect(url_for('home'))
     form = LoginForm()
     if form.validate_on_submit():
         user = User.query.filter_by(email=form.email.data).first()
@@ -57,3 +61,7 @@ def login():
                 flash('Login Unsuccessful. Please check email and password', 'danger')
     return render_template('login.html', title='Login', form=form)
 
+@app.route("/logout")
+def logout():
+    logout_user()
+    return redirect(url_for('home'))
