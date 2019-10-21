@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4db64362-e8ee-47ed-ad98-297ca0ade167" name="Default Changelist" comment="add reg form fields to register.html">
+    <list default="true" id="4db64362-e8ee-47ed-ad98-297ca0ade167" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pitch.py" beforeDir="false" afterPath="$PROJECT_DIR$/pitch.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/layout.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/register.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/register.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -150,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571596744914</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add reg form flash and redirect to pitch.py">
+      <created>1571602054694</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1571602054694</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -188,6 +196,7 @@
     <MESSAGE value="add new user login form route to pitch.py" />
     <MESSAGE value="add login and user registration pages" />
     <MESSAGE value="add reg form fields to register.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="add reg form fields to register.html" />
+    <MESSAGE value="add reg form flash and redirect to pitch.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add reg form flash and redirect to pitch.py" />
   </component>
 </project>
