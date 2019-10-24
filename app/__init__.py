@@ -15,16 +15,18 @@ db = SQLAlchemy(app)
 def create_app(config_name):
     app = Flask(__name__)
 
-bcrypt = Bcrypt(app)
-login_manager = LoginManager(app)
-login_manager.login_view = 'users.login'
-login_manager.login_message_category = 'info'
+    db.init_app(app)
+    bcrypt = Bcrypt(app)
+    login_manager = LoginManager(app)
+    login_manager.login_view = 'users.login'
+    login_manager.login_message_category = 'info'
 
-from app.users.routes import users
-from app.pitches.routes import pitches
-from app.main.routes import main
-app.register_blueprint(users)
-app.register_blueprint(pitches)
-app.register_blueprint(main)
+    from app.users.routes import users
+    from app.pitches.routes import pitches
+    from app.main.routes import main
 
+    app.register_blueprint(users)
+    app.register_blueprint(pitches)
+    app.register_blueprint(main)
 
+    return app
