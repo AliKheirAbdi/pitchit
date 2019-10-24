@@ -5,7 +5,9 @@
           <div class="media-body">
             <div class="article-metadata">
               <a class="mr-2" href="{{ url_for('users.user_posts', username=post.author.username) }}">Pitched By: {{ post.author.username }}</a>
-              <small class="text-muted">{{ post.date_posted.strftime('%Y-%m-%d') }}</small>
+               <h4 class="card-text d-inline mr-3"><small class="text-muted"><a href="/home/2/like">likes</a> 0</small></h4>
+                                        <h4 class="card-text d-inline mr-3"><small class="text-muted"><a href="/home/2/dislike">dislikes</a> 1</small></h4>
+                <small class="text-muted">{{ post.date_posted.strftime('%Y-%m-%d') }}</small>
               {% if post.author == current_user %}
                 <div>
                     <a class="bt btn-secondary btn-sm mt-1 mb-1" href="{{ url_for('posts.update_post',post_id=post.id)}}">Update</a>
