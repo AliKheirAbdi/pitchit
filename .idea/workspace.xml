@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4db64362-e8ee-47ed-ad98-297ca0ade167" name="Default Changelist" comment="added category select field in new post in forms.py" />
+    <list default="true" id="cc7bc638-6bc4-44e6-9c2a-49aa0833e54c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pitch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,22 +18,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/pitch" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1SSQzTNhVFpeUbAVnS1eBDcN0KM" />
+  <component name="ProjectId" id="1SgfrvBjLKKA8UQs8aNaljw9N9m" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/app" />
-      <recent name="$PROJECT_DIR$/pitch" />
-    </key>
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -37,447 +34,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run">
-    <configuration name="forms" type="PythonConfigurationType" factoryName="Python">
-      <module name="pitch" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="pitch" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <list>
-      <item itemvalue="Python.forms" />
-      <item itemvalue="Python.run" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.run" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4db64362-e8ee-47ed-ad98-297ca0ade167" name="Default Changelist" comment="" />
-      <created>1571554779971</created>
+      <changelist id="cc7bc638-6bc4-44e6-9c2a-49aa0833e54c" name="Default Changelist" comment="" />
+      <created>1571990361656</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571554779971</updated>
+      <updated>1571990361656</updated>
     </task>
-    <task id="LOCAL-00001" summary="created the home.html and about.html pages">
-      <created>1571568094709</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1571568094709</updated>
-    </task>
-    <task id="LOCAL-00002" summary="created the home.html and about.html pages">
-      <created>1571568161638</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1571568161638</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Test display of pitch templating in home.html">
-      <created>1571577760851</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1571577760851</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Test to display multi pitch in home.html">
-      <created>1571579304706</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1571579304706</updated>
-    </task>
-    <task id="LOCAL-00005" summary="adds bootstrap and js to layout.html">
-      <created>1571582170410</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1571582170410</updated>
-    </task>
-    <task id="LOCAL-00006" summary="add a navbar to layout.html">
-      <created>1571582528273</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1571582528273</updated>
-    </task>
-    <task id="LOCAL-00007" summary="add a content sidebar to layout.html">
-      <created>1571582606703</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1571582606703</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add static folder with main.css code">
-      <created>1571583082857</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1571583082859</updated>
-    </task>
-    <task id="LOCAL-00009" summary="add static folder with main.css code">
-      <created>1571592983350</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1571592983350</updated>
-    </task>
-    <task id="LOCAL-00010" summary="add a registration form.py with username and email fields">
-      <created>1571594209928</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1571594209928</updated>
-    </task>
-    <task id="LOCAL-00011" summary="add pwd field,confirm pwd and submit field to reg form.py">
-      <created>1571594392929</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1571594392929</updated>
-    </task>
-    <task id="LOCAL-00012" summary="add new user reg form route to pitch.py">
-      <created>1571595282273</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1571595282273</updated>
-    </task>
-    <task id="LOCAL-00013" summary="add new user login form route to pitch.py">
-      <created>1571595305057</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1571595305057</updated>
-    </task>
-    <task id="LOCAL-00014" summary="add login and user registration pages">
-      <created>1571595633030</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1571595633030</updated>
-    </task>
-    <task id="LOCAL-00015" summary="add reg form fields to register.html">
-      <created>1571596744914</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1571596744914</updated>
-    </task>
-    <task id="LOCAL-00016" summary="add reg form flash and redirect to pitch.py">
-      <created>1571602054694</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1571602054694</updated>
-    </task>
-    <task id="LOCAL-00017" summary="added a login form and sumbission validation test passed.">
-      <created>1571641267712</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1571641267712</updated>
-    </task>
-    <task id="LOCAL-00018" summary="added SQLAlchemy and imported to pitch.py">
-      <created>1571643341477</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1571643341477</updated>
-    </task>
-    <task id="LOCAL-00019" summary="added a database site.db using SQLAlchemy">
-      <created>1571651827796</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1571651827796</updated>
-    </task>
-    <task id="LOCAL-00020" summary="created models.py to hold all project model classes">
-      <created>1571652016242</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1571652016242</updated>
-    </task>
-    <task id="LOCAL-00021" summary="created new dummy login credentials to test db">
-      <created>1571661696780</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1571661696780</updated>
-    </task>
-    <task id="LOCAL-00022" summary="added bcrypt class to initialize it in init.py">
-      <created>1571663231146</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1571663231146</updated>
-    </task>
-    <task id="LOCAL-00023" summary="created validation check for already used usernames in forms.py">
-      <created>1571668913721</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1571668913721</updated>
-    </task>
-    <task id="LOCAL-00024" summary="created validation check for already used email in forms.py">
-      <created>1571669345874</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1571669345874</updated>
-    </task>
-    <task id="LOCAL-00025" summary="installed and instantiated Login Manager in init.py">
-      <created>1571669537490</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1571669537490</updated>
-    </task>
-    <task id="LOCAL-00026" summary="installed the user Login Manger in models.py">
-      <created>1571669935842</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1571669935842</updated>
-    </task>
-    <task id="LOCAL-00027" summary="tested and successfully logged in existing users only">
-      <created>1571671297080</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1571671297080</updated>
-    </task>
-    <task id="LOCAL-00028" summary="added a logout route that is only displayed for logged in users">
-      <created>1571671775543</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1571671775543</updated>
-    </task>
-    <task id="LOCAL-00029" summary="display the logout button for logged in users in the navbar in layout.html">
-      <created>1571672136676</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1571672136676</updated>
-    </task>
-    <task id="LOCAL-00030" summary="display my account link in nav for logged in users in account.html">
-      <created>1571672744839</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1571672744839</updated>
-    </task>
-    <task id="LOCAL-00031" summary="added the ability for a user to update the account info in account.html">
-      <created>1571675882521</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1571675882521</updated>
-    </task>
-    <task id="LOCAL-00032" summary="added the ability for a user to create a post in create_post.html">
-      <created>1571681223404</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1571681223404</updated>
-    </task>
-    <task id="LOCAL-00033" summary="added author,photo and date to display on posted pitch in home.html">
-      <created>1571682374598</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1571682374598</updated>
-    </task>
-    <task id="LOCAL-00034" summary="added redirect on article title click on  home.html">
-      <created>1571684790401</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1571684790401</updated>
-    </task>
-    <task id="LOCAL-00035" summary="added update post route on routes.html">
-      <created>1571684950158</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1571684950158</updated>
-    </task>
-    <task id="LOCAL-00036" summary="added and tested updated post by reg user on routes.html --successful">
-      <created>1571686583851</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1571686583851</updated>
-    </task>
-    <task id="LOCAL-00037" summary="added update post link for reg user on post.html">
-      <created>1571686982792</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1571686982792</updated>
-    </task>
-    <task id="LOCAL-00038" summary="added delete post btn for registered user on post.html">
-      <created>1571687164924</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1571687164924</updated>
-    </task>
-    <task id="LOCAL-00039" summary="added bootstrap delete post modal btn for registered user in post.html">
-      <created>1571687496009</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1571687496009</updated>
-    </task>
-    <task id="LOCAL-00040" summary="configures delete post modal btn for registered user in post.html">
-      <created>1571688982281</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1571688982281</updated>
-    </task>
-    <task id="LOCAL-00041" summary="added delete post route for registered user in routes.html">
-      <created>1571689235475</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1571689235475</updated>
-    </task>
-    <task id="LOCAL-00042" summary="added delete post db session delete &amp; commit in routes.html">
-      <created>1571689300511</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1571689300511</updated>
-    </task>
-    <task id="LOCAL-00043" summary="added delete post success flash msg in routes.html">
-      <created>1571689337475</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1571689337475</updated>
-    </task>
-    <task id="LOCAL-00044" summary="added return redirect to home after post delete in routes.html">
-      <created>1571689419180</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1571689419180</updated>
-    </task>
-    <task id="LOCAL-00045" summary="added the category to class PostForm in forms.py">
-      <created>1571744603467</created>
-      <option name="number" value="00045" />
-      <option name="presentableId" value="LOCAL-00045" />
-      <option name="project" value="LOCAL" />
-      <updated>1571744603467</updated>
-    </task>
-    <task id="LOCAL-00046" summary="added category select field in new post in forms.py">
-      <created>1571744641459</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1571744641459</updated>
-    </task>
-    <option name="localTasksCounter" value="47" />
     <servers />
-  </component>
-  <component name="Vcs.Log.History.Properties">
-    <option name="COLUMN_ORDER">
-      <list>
-        <option value="0" />
-        <option value="2" />
-        <option value="3" />
-        <option value="1" />
-      </list>
-    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <ignored-roots>
-      <path value="$PROJECT_DIR$" />
-    </ignored-roots>
-    <MESSAGE value="added bcrypt class to initialize it in init.py" />
-    <MESSAGE value="created validation check for already used usernames in forms.py" />
-    <MESSAGE value="created validation check for already used email in forms.py" />
-    <MESSAGE value="installed and instantiated Login Manager in init.py" />
-    <MESSAGE value="installed the user Login Manger in models.py" />
-    <MESSAGE value="tested and successfully logged in existing users only" />
-    <MESSAGE value="added a logout route that is only displayed for logged in users" />
-    <MESSAGE value="display the logout button for logged in users in the navbar in layout.html" />
-    <MESSAGE value="display my account link in nav for logged in users in account.html" />
-    <MESSAGE value="added the ability for a user to update the account info in account.html" />
-    <MESSAGE value="added the ability for a user to create a post in create_post.html" />
-    <MESSAGE value="added author,photo and date to display on posted pitch in home.html" />
-    <MESSAGE value="added redirect on article title click on  home.html" />
-    <MESSAGE value="added update post route on routes.html" />
-    <MESSAGE value="added and tested updated post by reg user on routes.html --successful" />
-    <MESSAGE value="added update post link for reg user on post.html" />
-    <MESSAGE value="added delete post btn for registered user on post.html" />
-    <MESSAGE value="added bootstrap delete post modal btn for registered user in post.html" />
-    <MESSAGE value="configures delete post modal btn for registered user in post.html" />
-    <MESSAGE value="added delete post route for registered user in routes.html" />
-    <MESSAGE value="added delete post db session delete &amp; commit in routes.html" />
-    <MESSAGE value="added delete post success flash msg in routes.html" />
-    <MESSAGE value="added return redirect to home after post delete in routes.html" />
-    <MESSAGE value="added the category to class PostForm in forms.py" />
-    <MESSAGE value="added category select field in new post in forms.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="added category select field in new post in forms.py" />
   </component>
 </project>
