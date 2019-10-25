@@ -36,7 +36,7 @@ A Flask application that helps In life, you only have 60 seconds to impress some
 
 4. Create an instance folder ```mkdir instance``` in the root directory and navigate to it ```cd instance```
 5. Create a config.py file in the instance folder ```touch config.py```
-6.Run manage.pyLaunch in the server to view the application
+6.Run manage.py to Launch in the server to view the application
 
 ## Development
 Want to contribute? Great!
@@ -61,7 +61,7 @@ Bootstrap
 | Click Register      | Fill out the reg form | user is created |
 | Click Login     | Enter username and pwd   | Application logs user in |
 | Submit Pitch| User fills out the form and submits | The new pitch is posted|
-| Delete Pitch| Mo | The new pitch is posted| Appears on the home page
+| Delete Pitch| Modal popup with the del button | The new pitch is posted| Appears on the home page
 | Click Account| User bio is populated | User can edit their username and pwd|
 
 
