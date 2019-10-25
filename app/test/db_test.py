@@ -22,7 +22,7 @@ class DbUserPost(unittest.TestCase):
 
     def test_save_user_to_db(self):
         user = User.query.filter_by(username='john').first()
-        self.assertEqual('joe',user.username)
+        self.assertEqual('john',user.username)
 
 
 
